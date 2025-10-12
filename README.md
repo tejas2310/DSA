@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/tejas2310/DSA/tree/master/0015-3sum) |
 | [0410-split-array-largest-sum](https://github.com/tejas2310/DSA/tree/master/0410-split-array-largest-sum) |
 | [0733-flood-fill](https://github.com/tejas2310/DSA/tree/master/0733-flood-fill) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/tejas2310/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/tejas2310/DSA/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Two Pointers
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/tejas2310/DSA/tree/master/0410-split-array-largest-sum) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/tejas2310/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Dynamic Programming
 |  |
 | ------- |
