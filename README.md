@@ -20,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/tejas2310/DSA/tree/master/0207-course-schedule) |
 | [0733-flood-fill](https://github.com/tejas2310/DSA/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/tejas2310/DSA/tree/master/0801-is-graph-bipartite) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/tejas2310/DSA/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/tejas2310/DSA/tree/master/0207-course-schedule) |
 | [0733-flood-fill](https://github.com/tejas2310/DSA/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/tejas2310/DSA/tree/master/0801-is-graph-bipartite) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/tejas2310/DSA/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/tejas2310/DSA/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/tejas2310/DSA/tree/master/0801-is-graph-bipartite) |
 ## Array
 |  |
@@ -92,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/tejas2310/DSA/tree/master/0239-sliding-window-maximum) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/tejas2310/DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
