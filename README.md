@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tejas2310/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tejas2310/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tejas2310/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0560-subarray-sum-equals-k](https://github.com/tejas2310/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/tejas2310/DSA/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/tejas2310/DSA/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/tejas2310/DSA/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/tejas2310/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/tejas2310/DSA/tree/master/0733-flood-fill) |
 | [0907-koko-eating-bananas](https://github.com/tejas2310/DSA/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tejas2310/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/tejas2310/DSA/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/tejas2310/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Queue
 |  |
 | ------- |
