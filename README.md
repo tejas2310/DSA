@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tejas2310/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/tejas2310/DSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/tejas2310/DSA/tree/master/0042-trapping-rain-water) |
+| [0078-subsets](https://github.com/tejas2310/DSA/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/tejas2310/DSA/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/tejas2310/DSA/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/tejas2310/DSA/tree/master/0410-split-array-largest-sum) |
@@ -130,4 +131,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/tejas2310/DSA/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/tejas2310/DSA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/tejas2310/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
