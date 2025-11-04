@@ -126,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/tejas2310/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tejas2310/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/tejas2310/DSA/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
