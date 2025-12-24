@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tejas2310/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0138-copy-list-with-random-pointer](https://github.com/tejas2310/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tejas2310/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/tejas2310/DSA/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/tejas2310/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/tejas2310/DSA/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/tejas2310/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tejas2310/DSA/tree/master/0090-subsets-ii) |
+| [0169-majority-element](https://github.com/tejas2310/DSA/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/tejas2310/DSA/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/tejas2310/DSA/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/tejas2310/DSA/tree/master/0410-split-array-largest-sum) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/tejas2310/DSA/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/tejas2310/DSA/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/tejas2310/DSA/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -143,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/tejas2310/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tejas2310/DSA/tree/master/0090-subsets-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tejas2310/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tejas2310/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
