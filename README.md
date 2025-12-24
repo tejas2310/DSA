@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tejas2310/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tejas2310/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/tejas2310/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/tejas2310/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tejas2310/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/tejas2310/DSA/tree/master/0169-majority-element) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/tejas2310/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/tejas2310/DSA/tree/master/0200-number-of-islands) |
 | [0801-is-graph-bipartite](https://github.com/tejas2310/DSA/tree/master/0801-is-graph-bipartite) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/tejas2310/DSA/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/tejas2310/DSA/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/tejas2310/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tejas2310/DSA/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/tejas2310/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/tejas2310/DSA/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/tejas2310/DSA/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/tejas2310/DSA/tree/master/0239-sliding-window-maximum) |
