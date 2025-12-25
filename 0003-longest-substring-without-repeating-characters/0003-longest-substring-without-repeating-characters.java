@@ -21,7 +21,6 @@ class Solution {
                 }
                 i++;
                 j++;
-                // isVisited.add(s.charAt(i));
             }
         }
 
