@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/tejas2310/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/tejas2310/DSA/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/tejas2310/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/tejas2310/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tejas2310/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Backtracking
@@ -152,9 +154,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/tejas2310/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/tejas2310/DSA/tree/master/0169-majority-element) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tejas2310/DSA/tree/master/0169-majority-element) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/tejas2310/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
