@@ -72,12 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/tejas2310/DSA/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tejas2310/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/tejas2310/DSA/tree/master/1663-detect-cycles-in-2d-grid) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/tejas2310/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tejas2310/DSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/tejas2310/DSA/tree/master/0042-trapping-rain-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tejas2310/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/tejas2310/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/tejas2310/DSA/tree/master/0933-number-of-recent-calls) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/tejas2310/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
