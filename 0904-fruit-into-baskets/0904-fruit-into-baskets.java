@@ -1,21 +1,24 @@
 class Solution {
     public int totalFruit(int[] fruits) {
-        Map<Integer, Integer> freq = new HashMap<>();
-        int start = 0, result = 0;
+        HashMap<Integer,Integer> freqMap = new HashMap<>();
+        int start = 0;
+        int end = 0;
+        
+        int result = Integer.MIN_VALUE;
 
-        for (int end = 0; end < fruits.length; end++) {
-            freq.merge(fruits[end], 1, Integer::sum);
+        while(end<fruits.length){
+            freqMap.merge(fruits[end],1,Integer::sum);
 
-            while (freq.size() > 2) {
-                freq.merge(fruits[start], -1, Integer::sum);
-                if (freq.get(fruits[start]) == 0) {
-                    freq.remove(fruits[start]);
+            if(freqMap.size() > 2){
+                result = Math.max(end-start, result);
+                while(freqMap.size() > 2){
+                    freqMap.merge(fruits[start],-1,Integer::sum);
+                    if(freqMap.get(fruits[start]) == 0) freqMap.remove(fruits[start]);
+                    start++;
                 }
-                start++;
             }
-
-            result = Math.max(result, end - start + 1);
+            end++;
         }
-        return result;
+        return Math.max(end-start, result);
     }
 }
