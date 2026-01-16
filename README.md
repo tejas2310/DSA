@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/tejas2310/DSA/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/tejas2310/DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/tejas2310/DSA/tree/master/0907-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/tejas2310/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tejas2310/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/tejas2310/DSA/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tejas2310/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/tejas2310/DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/tejas2310/DSA/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tejas2310/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0977-squares-of-a-sorted-array](https://github.com/tejas2310/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tejas2310/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/tejas2310/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/tejas2310/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tejas2310/DSA/tree/master/0169-majority-element) |
+| [0977-squares-of-a-sorted-array](https://github.com/tejas2310/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
 |  |
 | ------- |
