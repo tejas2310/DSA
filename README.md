@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tejas2310/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tejas2310/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/tejas2310/DSA/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/tejas2310/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/tejas2310/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/tejas2310/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tejas2310/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tejas2310/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/tejas2310/DSA/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/tejas2310/DSA/tree/master/0049-group-anagrams) |
 | [0316-remove-duplicate-letters](https://github.com/tejas2310/DSA/tree/master/0316-remove-duplicate-letters) |
 ## Sliding Window
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/tejas2310/DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/tejas2310/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/tejas2310/DSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/tejas2310/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/tejas2310/DSA/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/tejas2310/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/tejas2310/DSA/tree/master/0088-merge-sorted-array) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tejas2310/DSA/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/tejas2310/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/tejas2310/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/tejas2310/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tejas2310/DSA/tree/master/0169-majority-element) |
