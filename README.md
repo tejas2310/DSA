@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/tejas2310/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/tejas2310/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/tejas2310/DSA/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/tejas2310/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/tejas2310/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/tejas2310/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/tejas2310/DSA/tree/master/0090-subsets-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/tejas2310/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/tejas2310/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/tejas2310/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/tejas2310/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/tejas2310/DSA/tree/master/0733-flood-fill) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/tejas2310/DSA/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/tejas2310/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/tejas2310/DSA/tree/master/0059-spiral-matrix-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tejas2310/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
