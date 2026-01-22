@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/tejas2310/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/tejas2310/DSA/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/tejas2310/DSA/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/tejas2310/DSA/tree/master/0766-toeplitz-matrix) |
 | [0904-fruit-into-baskets](https://github.com/tejas2310/DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/tejas2310/DSA/tree/master/0907-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/tejas2310/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/tejas2310/DSA/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/tejas2310/DSA/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/tejas2310/DSA/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/tejas2310/DSA/tree/master/0766-toeplitz-matrix) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/tejas2310/DSA/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tejas2310/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Binary Search
