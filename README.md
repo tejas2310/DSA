@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/tejas2310/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/tejas2310/DSA/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/tejas2310/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/tejas2310/DSA/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/tejas2310/DSA/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/tejas2310/DSA/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/tejas2310/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/tejas2310/DSA/tree/master/0566-reshape-the-matrix) |
+| [0621-task-scheduler](https://github.com/tejas2310/DSA/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/tejas2310/DSA/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/tejas2310/DSA/tree/master/0766-toeplitz-matrix) |
 | [0904-fruit-into-baskets](https://github.com/tejas2310/DSA/tree/master/0904-fruit-into-baskets) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/tejas2310/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/tejas2310/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tejas2310/DSA/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/tejas2310/DSA/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/tejas2310/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
 |  |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/tejas2310/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/tejas2310/DSA/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/tejas2310/DSA/tree/master/0621-task-scheduler) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tejas2310/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/tejas2310/DSA/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/tejas2310/DSA/tree/master/0621-task-scheduler) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -205,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tejas2310/DSA/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/tejas2310/DSA/tree/master/0621-task-scheduler) |
 ## Merge Sort
 |  |
 | ------- |
