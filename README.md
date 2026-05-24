@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tejas2310/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/tejas2310/DSA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/tejas2310/DSA/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/tejas2310/DSA/tree/master/0072-edit-distance) |
 | [0316-remove-duplicate-letters](https://github.com/tejas2310/DSA/tree/master/0316-remove-duplicate-letters) |
 ## Sliding Window
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tejas2310/DSA/tree/master/0042-trapping-rain-water) |
+| [0072-edit-distance](https://github.com/tejas2310/DSA/tree/master/0072-edit-distance) |
 | [0300-longest-increasing-subsequence](https://github.com/tejas2310/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/tejas2310/DSA/tree/master/0410-split-array-largest-sum) |
 ## Greedy
