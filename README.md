@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/tejas2310/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/tejas2310/DSA/tree/master/0566-reshape-the-matrix) |
 | [0621-task-scheduler](https://github.com/tejas2310/DSA/tree/master/0621-task-scheduler) |
+| [0646-maximum-length-of-pair-chain](https://github.com/tejas2310/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0733-flood-fill](https://github.com/tejas2310/DSA/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/tejas2310/DSA/tree/master/0766-toeplitz-matrix) |
 | [0904-fruit-into-baskets](https://github.com/tejas2310/DSA/tree/master/0904-fruit-into-baskets) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tejas2310/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tejas2310/DSA/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/tejas2310/DSA/tree/master/0621-task-scheduler) |
+| [0646-maximum-length-of-pair-chain](https://github.com/tejas2310/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0977-squares-of-a-sorted-array](https://github.com/tejas2310/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
 |  |
@@ -145,12 +147,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/tejas2310/DSA/tree/master/0072-edit-distance) |
 | [0300-longest-increasing-subsequence](https://github.com/tejas2310/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/tejas2310/DSA/tree/master/0410-split-array-largest-sum) |
+| [0646-maximum-length-of-pair-chain](https://github.com/tejas2310/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 ## Greedy
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/tejas2310/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/tejas2310/DSA/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/tejas2310/DSA/tree/master/0621-task-scheduler) |
+| [0646-maximum-length-of-pair-chain](https://github.com/tejas2310/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 ## Prefix Sum
 |  |
 | ------- |
