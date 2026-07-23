@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/tejas2310/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tejas2310/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/tejas2310/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/tejas2310/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/tejas2310/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/tejas2310/DSA/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/tejas2310/DSA/tree/master/0904-fruit-into-baskets) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/tejas2310/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/tejas2310/DSA/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/tejas2310/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/tejas2310/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/tejas2310/DSA/tree/master/0410-split-array-largest-sum) |
 | [0498-diagonal-traverse](https://github.com/tejas2310/DSA/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/tejas2310/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tejas2310/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tejas2310/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tejas2310/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/tejas2310/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/tejas2310/DSA/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tejas2310/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0977-squares-of-a-sorted-array](https://github.com/tejas2310/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/tejas2310/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tejas2310/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/tejas2310/DSA/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/tejas2310/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/tejas2310/DSA/tree/master/0621-task-scheduler) |
 ## Monotonic Queue
 |  |
@@ -218,10 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/tejas2310/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/tejas2310/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tejas2310/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/tejas2310/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tejas2310/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/tejas2310/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/tejas2310/DSA/tree/master/0621-task-scheduler) |
 ## Merge Sort
 |  |
@@ -269,4 +275,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tejas2310/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/tejas2310/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/tejas2310/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
