@@ -5,7 +5,7 @@ class Solution {
         for(i = 0; i < height.length ; i++){
             if(i == 0){
                 maxLeftRightArray[i][0] = height[i];
-                maxLeftRightArray[height.length - 1 - i][1] = height[height.length - 1 - i];
+                maxLeftRightArray[height.length - 1][1] = height[height.length - 1];
             }else{
                 maxLeftRightArray[i][0] = Math.max(height[i],maxLeftRightArray[i-1][0]);
                 maxLeftRightArray[height.length - 1 - i][1] = Math.max(height[height.length - 1 - i],maxLeftRightArray[height.length - i][1]);
