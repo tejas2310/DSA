@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/tejas2310/DSA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/tejas2310/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/tejas2310/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/tejas2310/DSA/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/tejas2310/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tejas2310/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/tejas2310/DSA/tree/master/0169-majority-element) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/tejas2310/DSA/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/tejas2310/DSA/tree/master/0110-balanced-binary-tree) |
+| [0133-clone-graph](https://github.com/tejas2310/DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/tejas2310/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/tejas2310/DSA/tree/master/0207-course-schedule) |
 | [0543-diameter-of-binary-tree](https://github.com/tejas2310/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/tejas2310/DSA/tree/master/0100-same-tree) |
+| [0133-clone-graph](https://github.com/tejas2310/DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/tejas2310/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/tejas2310/DSA/tree/master/0207-course-schedule) |
 | [0733-flood-fill](https://github.com/tejas2310/DSA/tree/master/0733-flood-fill) |
@@ -289,5 +292,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/tejas2310/DSA/tree/master/0133-clone-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/tejas2310/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
