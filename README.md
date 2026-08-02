@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/tejas2310/DSA/tree/master/0207-course-schedule) |
 | [0733-flood-fill](https://github.com/tejas2310/DSA/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/tejas2310/DSA/tree/master/0801-is-graph-bipartite) |
+| [0994-rotting-oranges](https://github.com/tejas2310/DSA/tree/master/0994-rotting-oranges) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/tejas2310/DSA/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/tejas2310/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union Find
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/tejas2310/DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/tejas2310/DSA/tree/master/0907-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/tejas2310/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/tejas2310/DSA/tree/master/0994-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tejas2310/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/tejas2310/DSA/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tejas2310/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/tejas2310/DSA/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/tejas2310/DSA/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/tejas2310/DSA/tree/master/0766-toeplitz-matrix) |
+| [0994-rotting-oranges](https://github.com/tejas2310/DSA/tree/master/0994-rotting-oranges) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/tejas2310/DSA/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tejas2310/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Binary Search
