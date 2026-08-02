@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/tejas2310/DSA/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/tejas2310/DSA/tree/master/0801-is-graph-bipartite) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/tejas2310/DSA/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1971-find-if-path-exists-in-graph](https://github.com/tejas2310/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/tejas2310/DSA/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/tejas2310/DSA/tree/master/0801-is-graph-bipartite) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/tejas2310/DSA/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1971-find-if-path-exists-in-graph](https://github.com/tejas2310/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
 | ------- |
@@ -280,4 +282,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tejas2310/DSA/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/tejas2310/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/tejas2310/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
