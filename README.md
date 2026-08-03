@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/tejas2310/DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/tejas2310/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/tejas2310/DSA/tree/master/0207-course-schedule) |
+| [0542-01-matrix](https://github.com/tejas2310/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/tejas2310/DSA/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/tejas2310/DSA/tree/master/0801-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/tejas2310/DSA/tree/master/0994-rotting-oranges) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/tejas2310/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/tejas2310/DSA/tree/master/0410-split-array-largest-sum) |
 | [0498-diagonal-traverse](https://github.com/tejas2310/DSA/tree/master/0498-diagonal-traverse) |
+| [0542-01-matrix](https://github.com/tejas2310/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/tejas2310/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/tejas2310/DSA/tree/master/0566-reshape-the-matrix) |
 | [0621-task-scheduler](https://github.com/tejas2310/DSA/tree/master/0621-task-scheduler) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/tejas2310/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/tejas2310/DSA/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/tejas2310/DSA/tree/master/0498-diagonal-traverse) |
+| [0542-01-matrix](https://github.com/tejas2310/DSA/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/tejas2310/DSA/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/tejas2310/DSA/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/tejas2310/DSA/tree/master/0766-toeplitz-matrix) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/tejas2310/DSA/tree/master/0072-edit-distance) |
 | [0300-longest-increasing-subsequence](https://github.com/tejas2310/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/tejas2310/DSA/tree/master/0410-split-array-largest-sum) |
+| [0542-01-matrix](https://github.com/tejas2310/DSA/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tejas2310/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 ## Greedy
 |  |
