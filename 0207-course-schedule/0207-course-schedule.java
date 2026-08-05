@@ -1,30 +1,43 @@
 class Solution {
 public static boolean canFinish(int numCourses, int[][] prerequisites) {
-        if(prerequisites.length == 0) return true;
-        List<Integer>[] outDegreeGraph = new ArrayList[numCourses];
-        int[] inDegressGraph = new int[numCourses];
-        Queue<Integer> q = new ArrayDeque<>();
-        List<Integer> result = new ArrayList<>();
+        int[] visited = new int[numCourses];
+        int[] pathVisited = new int[numCourses];
 
-        for(int[] node : prerequisites){
-            inDegressGraph[node[0]]++;
-            if(outDegreeGraph[node[1]] == null) outDegreeGraph[node[1]] = new ArrayList<>(List.of(node[0]));
-            else outDegreeGraph[node[1]].add(node[0]);
+        List<Integer>[] adjList = new ArrayList[numCourses];
+
+        for(int[] edge : prerequisites){
+            if(adjList[edge[1]] == null) adjList[edge[1]] = new ArrayList<>();
+            adjList[edge[1]].add(edge[0]);
         }
 
-        for(int i = 0; i< inDegressGraph.length ; i++){
-            if (inDegressGraph[i] == 0) q.offer(i);
-        }
-
-        while(!q.isEmpty()){
-            int course = q.poll();
-            result.add(course);
-            if(outDegreeGraph[course] == null) continue;
-            for(int childCourse : outDegreeGraph[course]){
-                inDegressGraph[childCourse]--;
-                if (inDegressGraph[childCourse] == 0) q.offer(childCourse);
+        for(int i = 0; i<numCourses;i++){
+            if(visited[i] == 0){
+                visited[i] = 1;
+                pathVisited[i] = 1;
+                if(!dfs(adjList,visited,pathVisited,i)) return false;
             }
         }
-        return result.size() == numCourses;
+
+        return true;
+    }
+
+    public static boolean dfs(List<Integer>[] adjList, int[] visited, int[] pathVisited, int node){
+
+        boolean result = true;
+
+        if(adjList[node] != null){
+            for(int neighbour : adjList[node]){
+                if(visited[neighbour] == 0){
+                    visited[neighbour] = 1;
+                    pathVisited[neighbour] = 1;
+                    result &= dfs(adjList,visited,pathVisited,neighbour);
+                }else{
+                    if(pathVisited[neighbour] == 1) return false;
+                }
+            }
+        }
+
+        pathVisited[node] = 0;
+        return result;
     }
 }
