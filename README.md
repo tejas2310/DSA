@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/tejas2310/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/tejas2310/DSA/tree/master/0207-course-schedule) |
 | [0543-diameter-of-binary-tree](https://github.com/tejas2310/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/tejas2310/DSA/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/tejas2310/DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/tejas2310/DSA/tree/master/0743-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/tejas2310/DSA/tree/master/0801-is-graph-bipartite) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/tejas2310/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/tejas2310/DSA/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/tejas2310/DSA/tree/master/0542-01-matrix) |
+| [0684-redundant-connection](https://github.com/tejas2310/DSA/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/tejas2310/DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/tejas2310/DSA/tree/master/0743-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/tejas2310/DSA/tree/master/0801-is-graph-bipartite) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/tejas2310/DSA/tree/master/0684-redundant-connection) |
 | [1631-path-with-minimum-effort](https://github.com/tejas2310/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/tejas2310/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/tejas2310/DSA/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/tejas2310/DSA/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/tejas2310/DSA/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/tejas2310/DSA/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/tejas2310/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Directed Acyclic Graph
