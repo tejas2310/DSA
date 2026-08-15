@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/tejas2310/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/tejas2310/DSA/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/tejas2310/DSA/tree/master/0904-fruit-into-baskets) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/tejas2310/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## String
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/tejas2310/DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/tejas2310/DSA/tree/master/0743-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/tejas2310/DSA/tree/master/0801-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/tejas2310/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1631-path-with-minimum-effort](https://github.com/tejas2310/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/tejas2310/DSA/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/tejas2310/DSA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/tejas2310/DSA/tree/master/0684-redundant-connection) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/tejas2310/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1631-path-with-minimum-effort](https://github.com/tejas2310/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/tejas2310/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/tejas2310/DSA/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/tejas2310/DSA/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/tejas2310/DSA/tree/master/0743-network-delay-time) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/tejas2310/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1971-find-if-path-exists-in-graph](https://github.com/tejas2310/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Directed Acyclic Graph
 |  |
@@ -330,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/tejas2310/DSA/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/tejas2310/DSA/tree/master/1631-path-with-minimum-effort) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/tejas2310/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
