@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/tejas2310/DSA/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tejas2310/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0733-flood-fill](https://github.com/tejas2310/DSA/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/tejas2310/DSA/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/tejas2310/DSA/tree/master/0766-toeplitz-matrix) |
 | [0904-fruit-into-baskets](https://github.com/tejas2310/DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/tejas2310/DSA/tree/master/0907-koko-eating-bananas) |
@@ -218,11 +219,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tejas2310/DSA/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/tejas2310/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/tejas2310/DSA/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tejas2310/DSA/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/tejas2310/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/tejas2310/DSA/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
 | ------- |
