@@ -27,24 +27,46 @@ class Solution {
     //     return lenght;
     // }
 
+    // public static int lengthOfLongestSubstring(String s) {
+    //     int result = 0;
+    //     int itrCount = 0;
+    //     Set<Character> charSet = new HashSet<>();
+    //     int i = 0;
+    //     int j = 0;
+
+    //     while(j!=s.length()){
+    //         if(!charSet.contains(s.charAt(j))){
+    //             charSet.add(s.charAt(j));
+    //             itrCount++;
+    //             result = Math.max(result,itrCount);
+    //             j++;
+    //         }else{
+    //             charSet.remove(s.charAt(i));
+    //             i++;
+    //             itrCount--;
+    //         }
+    //     }
+    //     return result;
+    // }
+
     public static int lengthOfLongestSubstring(String s) {
-        int result = 0;
-        int itrCount = 0;
-        Set<Character> charSet = new HashSet<>();
+        if(s == null || s.isEmpty()) return 0;
         int i = 0;
         int j = 0;
-
-        while(j!=s.length()){
+        int result = 0;
+        Set<Character> charSet = new HashSet<>();
+        while(j < s.length()){
             if(!charSet.contains(s.charAt(j))){
                 charSet.add(s.charAt(j));
-                itrCount++;
-                result = Math.max(result,itrCount);
-                j++;
+                result = Math.max(result,j-i+1);
             }else{
-                charSet.remove(s.charAt(i));
-                i++;
-                itrCount--;
+                while(charSet.contains(s.charAt(j))){
+                    charSet.remove(s.charAt(i));
+                    i++;
+                }
+                charSet.add(s.charAt(j));
             }
+            j++;
         }
         return result;
     }
